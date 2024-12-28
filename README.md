@@ -17,7 +17,8 @@
 ## 📖 Content of this repository
 This repository contains all the data utilized in our analysis but not the SOuLMuSiC code. If you want to run SOuLMuSiC visit our webserver http://babylone.3bio.ulb.ac.be/SOuLMuSiC/.   
 
-* File PDB_D.zip: PDB structures of all the entries of dataset $\mathcal{D}$. 
+* File PDB_D.zip: PDB structures of all the entries of dataset $\mathcal{D}$.
+* File PDB_Dinv.zip: PDB structures of all the entries of dataset $\mathcal{D}_{inv}$. 
 
 ---
 
