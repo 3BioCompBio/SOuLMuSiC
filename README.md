@@ -21,7 +21,7 @@ This repository contains all the data utilized in our analysis but not the SOuLM
 * File PDB_Dinv.zip: PDB structures of all the entries of dataset $\mathcal{D}_{inv}$.
 * File 4ZFV.pdb: PDB structure of the entries of dataset $\mathcal{D}_{LGK}$.
 * File 1IYT.pdb and 2NAO.pdb: PDB structures of the entries of the dataset $\mathcal{D}_{A\beta}$.
-
+* File Abeta42.dat: File with the experimental data and the SOuLMuSiC prediction of $\mathcal{D}_{A\beta}$. 
 ---
 
 ## 📝 Citation and Contact 📫
